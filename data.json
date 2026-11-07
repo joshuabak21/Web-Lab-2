@@ -1,0 +1,25 @@
+{
+    "chart_title": "Weekly Study Hours by Course",
+    "data_points": [
+        {
+            "label": "Calculus III",
+            "value": 8.5
+        },
+        {
+            "label": "Statics",
+            "value": 6.0
+        },
+        {
+            "label": "Chemistry",
+            "value": 5.5
+        },
+        {
+            "label": "Programming",
+            "value": 6.5
+        },
+        {
+            "label": "Physics",
+            "value": 4.0
+        }
+    ]
+}
